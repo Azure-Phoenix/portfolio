@@ -1,0 +1,54 @@
+{
+  "gearType": [{
+      "gear": "Senior UI Leader (Enghouse Systems | Canada)",
+      "gearList": [{
+          "item": "Led a team to develop a WebGL-based e-commerce platform using WebAR/WebVR technology that generated $350k in revenue."
+        },
+        {
+          "item": "Cleaned and compressed street 3D model to minimize file size and load time on the web while developing and maintaining e-commerce Metaverse."
+        },
+        {
+          "item": "Developed an Educational Metaverse on the web with integrated real-time voice and video chat functionality."
+        },
+        {
+          "item": "Created an interactive 3D map visualization using R3F, showcasing data points and geographic information in a visually appealing manner.",
+          "type": ["Jul 2021", "Dec 2023"]
+        }
+      ]
+    },
+    {
+      "gear": "Junior Frontend/WebGL Developer (MindGeek | Remote)",
+      "gearList": [{
+          "item": "Maintained popular THREE.js Web Virtual Exhibition that received over 5 million visitors and increased brand awareness by 30% for leading technology company, demonstrating reliability and attention to detail."
+        },
+        {
+          "item": "Created highly interactive 3D visualizations of network infrastructure using THREE.js and REACT."
+        },
+        {
+          "item": "Developed a cutting-edge WebGL project enabling online furniture design, resulting in a substantial 35% increase in sales for a furniture manufacturing company."
+        },
+        {
+          "item": "Designed and implemented a highly-scalable e-commerce platform using REACT and Node.js.",
+          "type": ["Jan 2020", "Jun 2021"]
+        }
+      ]
+    },
+    {
+      "gear": "Frontend Developer (Red Piston | Canada)",
+      "gearList": [{
+          "item": "Created a WebVR virtual touring project for a real estate company specializing in home sales using THREE.js."
+        },
+        {
+          "item": "Launched 6 2D/3D animated Websites using REACT, THREE.js and GSAP."
+        },
+        {
+          "item": "Developed and implemented accessibility strategies to ensure web applications are accessible to all users, including those with disabilities."
+        },
+        {
+          "item": "Enhanced UI sound effects by 30% using Web Audio API, creating a more immersive user experience and receiving positive client feedback.",
+          "type": ["Aug 2016 ", "Dec 2019"]
+        }
+      ]
+    }
+  ]
+}

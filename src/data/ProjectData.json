@@ -1,0 +1,62 @@
+[
+  {
+    "title": "5th Revolution",
+    "technology": ["Website", "React", "Bootstrap", "Three.js"],
+    "image": "../projects/revolution.png",
+    "link": "https://www.5revolution.tech/"
+  },
+  {
+    "title": "Bicycle Advertise",
+    "technology": ["Website", "Three.js", "GSAP", "3D"],
+    "image": "../projects/bicycle.png",
+    "link": "https://gsap-bicycle-website.web.app/"
+  },
+  {
+    "title": "Budbo Website",
+    "technology": ["Website", "React", "NextJS", "GSAP", "Tailwind"],
+    "image": "../projects/budbo.png",
+    "link": "https://next-gsap-indol.vercel.app/"
+  },
+  {
+    "title": "DSTRKT 2D",
+    "technology": ["Website", "React", "GSAP", "Tailwind"],
+    "image": "../projects/DSTRKT_2D.png",
+    "link": "https://dstrkt-2d-14226.web.app/"
+  },
+  {
+    "title": "DSTRKT 3D",
+    "technology": ["Website", "Three.js", "GSAP", "Blender", "3D"],
+    "image": "../projects/DSTRKT_3D.png",
+    "link": "https://dstrkt-world.web.app/"
+  },
+  {
+    "title": "Zombie CS",
+    "technology": ["Game", "Three.js", "Blender", "3D"],
+    "image": "../projects/fps.png",
+    "link": "https://fps-demon-demo.web.app/"
+  },
+  {
+    "title": "Metaverse",
+    "technology": ["Metaverse", "Three.js", "React", "NextJS", "GSAP", "Blender", "3D"],
+    "image": "../projects/metaverse.png",
+    "link": "https://brianyoung-metaverse.vercel.app/"
+  },
+  {
+    "title": "Neon Runner",
+    "technology": ["Game", "Three.js", "Tailwind"],
+    "image": "../projects/neon.png",
+    "link": "https://neon-runner-14226.web.app/"
+  },
+  {
+    "title": "Car Configurator",
+    "technology": ["Application", "Three.js", "React", "Blender", "3D"],
+    "image": "../projects/carConfig.png",
+    "link": "https://car-configurator-14226.web.app/"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "technology": ["Game", "HTML", "CSS", "Javascript"],
+    "image": "../projects/ttt.png",
+    "link": "https://ttt-14226.web.app/"
+  }
+]
