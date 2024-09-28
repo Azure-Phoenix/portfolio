@@ -236,34 +236,34 @@ function Contacts() {
               <span>larrypotter0000@gmail.com</span>
             </a>
             <a
-              href="https://join.skype.com/invite/skac2yk72fjX"
+              href="https://join.skype.com/invite/vo7cpZPP4LXh"
               className="text-white hover:text-[#26BCFF] inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"
             >
               <AiOutlineSkype className="text-[19px]" />
-              <span>Azure Phoenix</span>
+              <span>Enigma</span>
             </a>
             <a
-              href="https://t.me/AzurePhoenix000"
+              href="https://t.me/DreamJet31"
               className="text-white hover:text-[#26BCFF] inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"
             >
               <FaTelegramPlane className="text-[19px]" />
-              <span>Azure Phoenix</span>
+              <span>DreamJet</span>
             </a>
             <a
               href="#"
               className="text-white hover:text-[#26BCFF] inline-flex items-center gap-2.5 transition-colors"
               onClick={() => {
-                copyToClipboard("nightmare14226")
+                copyToClipboard("for_the_truth")
                 toast_discord()
               }}
               rel="noreferrer"
             >
               <FaDiscord className="text-[19px]" />
-              <span>Nightmare</span>
+              <span>Truth</span>
             </a>
             <a
               href="#"

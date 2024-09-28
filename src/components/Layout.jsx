@@ -239,7 +239,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
               <MdEmail />
             </a>
             <a
-              href="https://join.skype.com/invite/skac2yk72fjX"
+              href="https://join.skype.com/invite/vo7cpZPP4LXh"
               target="_blank"
               rel="noreferrer"
               className="px-2.5 py-2.5 border-x border-[#1E2D3D] hover:text-white transition-colors"
@@ -248,7 +248,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
               <AiOutlineSkype />
             </a>
             <a
-              href="https://t.me/AzurePhoenix000"
+              href="https://t.me/DreamJet31"
               target="_blank"
               rel="noreferrer"
               className="px-2.5 py-2.5 border-r border-[#1E2D3D] hover:text-white transition-colors"
@@ -259,7 +259,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
             <a
               href="#"
               onClick={() => {
-                copyToClipboard("nightmare14226");
+                copyToClipboard("for_the_truth");
                 toast_discord();
               }}
               rel="noreferrer"
